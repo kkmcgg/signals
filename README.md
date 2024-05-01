@@ -40,3 +40,4 @@ Here you can see it being used with a real signal:
   - Optimal Transport
   - Ground Plane Detection (dribble?)
   - Hidden Point Removal 
+  - MAMBA natworks 
